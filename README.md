@@ -1,5 +1,5 @@
 ### Olá  👋
-### Sou Daniel Steinbruch, Dani.
+### Sou Daniel Steinbruch, Prof Dani Stein
 
 - 🔭 I’m currently working on teaching Information Technology classes.
 - 🌱 I’m currently learning Python and AI.
