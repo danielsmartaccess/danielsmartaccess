@@ -1,6 +1,6 @@
 ### Olá  👋
 ### Sou Daniel Steinbruch, 
-MSc. Dani Stein
+
 
 ## Tecnologias em domínio
  
