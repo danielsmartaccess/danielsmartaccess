@@ -137,5 +137,3 @@ Sou docente, orientador educacional e analista de sistemas em formação. Minha 
 ---
 
 > **"A tecnologia por si só não transforma o mundo. Pessoas que aprendem, inovam e compartilham conhecimento, sim."** 🚀
-
-Essa versão já posiciona você não apenas como estudante de ADS, mas como um profissional híbrido de **Educação + Tecnologia + IA + Gestão**, que é exatamente o diferencial que aparece em toda a sua trajetória.
