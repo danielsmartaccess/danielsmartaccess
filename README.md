@@ -11,7 +11,7 @@ Sou docente, orientador educacional e analista de sistemas em formação. Minha 
 ## 🚀 Sobre mim
 
 * 🎓 Docente e Orientador Educacional no Senac-RS
-* 💻 Estudante de Análise e Desenvolvimento de Sistemas
+* 💻 Analista e Desenvolvedor de Sistemas e Administrador
 * 🤖 Entusiasta e aplicador de Inteligência Artificial
 * 📊 Apaixonado por dados, inovação e transformação digital
 * 🌱 Aprendizado contínuo em desenvolvimento de software, automação e IA
